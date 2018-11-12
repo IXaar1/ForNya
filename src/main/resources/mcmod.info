@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "nya",
+  "name": "Nya additions",
+  "description": "For nya with love",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Hipster57"],
+  "credits": "All has begun",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
